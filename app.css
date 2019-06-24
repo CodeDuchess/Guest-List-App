@@ -13,7 +13,7 @@ body {
   display: inline-block;
 }
 
-h1, li {
+h1, div.li {
   color: white;
 }
 
