@@ -17,3 +17,7 @@ h1, li {
   color: white;
 }
 
+.nav-link {
+   color: lightblue;
+   font-weight: bold;
+}
